@@ -3,9 +3,8 @@ Web application built with python flask
 
 ## Used Packages
 + Flask
-+ Pyrebase4
++ Pyrebase4 - allows you to use Python to manipulate your Firebase database.
 + Firebase
-+ sseclient
 
 # Online College Admission Management System Project
 
